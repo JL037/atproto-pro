@@ -1,6 +1,6 @@
 # atproto-pro
 
-[![skills.sh](https://skills.sh/b/jaredlemler/atproto-pro)](https://skills.sh/jaredlemler/atproto-pro)
+[![skills.sh](https://skills.sh/b/JL037/atproto-pro)](https://skills.sh/JL037/atproto-pro)
 
 An agent skill for the AT Protocol — deep protocol expertise for building on the open social web.
 
@@ -10,13 +10,13 @@ Covers identity (DIDs, handles), repositories, Lexicons, XRPC, OAuth (PKCE + DPo
 
 ```bash
 # Install to all detected agents
-npx skills add jaredlemler/atproto-pro
+npx skills add JL037/atproto-pro
 
 # Install to a specific agent
-npx skills add jaredlemler/atproto-pro -a opencode
+npx skills add JL037/atproto-pro -a opencode
 
 # Install globally
-npx skills add jaredlemler/atproto-pro -g
+npx skills add JL037/atproto-pro -g
 ```
 
 ## What's Included
