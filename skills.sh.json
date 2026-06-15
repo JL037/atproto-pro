@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AT Protocol",
+      "description": "Expert knowledge of the AT Protocol for building federated social applications.",
+      "skills": ["atproto-pro"]
+    }
+  ]
+}
